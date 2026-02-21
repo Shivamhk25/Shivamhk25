@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Shivam Chauhan 👋
 
-<!--
-**Shivamhk25/Shivamhk25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer at Visit Health with 4+ years of experience designing and scaling distributed backend systems and high-performance APIs. I work on event-driven architectures, multi-tenant platforms, and real-time communication systems with a strong focus on scalability, reliability, and performance engineering.
 
-Here are some ideas to get you started:
+## 🏗️ What I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ • Languages: JavaScript, TypeScript, Java, C/C++, SQL
+ • Frontend: React, Redux, Next.js
+ • Backend: Node.js, Fastify, Express.js, Java
+ • Databases: MySQL, MongoDB, DynamoDB, Redshift
+ • Messaging & Streaming: Apache Kafka, RabbitMQ
+ • Cloud & Infrastructure: AWS (Lambda, SQS, SNS, S3, SES), Docker, Kubernetes
+ • Caching & Search: Redis, Elasticsearch
+ • DevOps & Data: Apache Airflow, Jenkins, CI/CD pipelines
+ • Authentication & Security: JWT, Google OAuth, SSO
+ • Integrations & Tools: Git, Exotel, Twilio, Gupshup, Msg91, Sansoft, CarePlix
+
+## 🧠 Engineering Focus
+
+- Designing high-throughput systems
+- Reducing latency & improving system reliability
+- Database optimization & query tuning
+- Writing clean, maintainable, production-grade code
+- Making architectural trade-offs based on scale & cost
+
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/shivam-chauhan-hk/
+- Email: shivamchauhandpr@gmail.com
