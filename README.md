@@ -5,14 +5,23 @@ Senior Software Engineer at Visit Health with 4+ years of experience designing a
 ## 🏗️ What I Work With
 
  • Languages: JavaScript, TypeScript, Java, C/C++, SQL
- • Frontend: React, Redux, Next.js
+ 
  • Backend: Node.js, Fastify, Express.js, Java
+ 
+ • Frontend: React, Redux, Next.js
+ 
  • Databases: MySQL, MongoDB, DynamoDB, Redshift
+ 
  • Messaging & Streaming: Apache Kafka, RabbitMQ
+ 
  • Cloud & Infrastructure: AWS (Lambda, SQS, SNS, S3, SES), Docker, Kubernetes
+ 
  • Caching & Search: Redis, Elasticsearch
+ 
  • DevOps & Data: Apache Airflow, Jenkins, CI/CD pipelines
+ 
  • Authentication & Security: JWT, Google OAuth, SSO
+ 
  • Integrations & Tools: Git, Exotel, Twilio, Gupshup, Msg91, Sansoft, CarePlix
 
 ## 🧠 Engineering Focus
