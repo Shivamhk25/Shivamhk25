@@ -19,6 +19,7 @@ Senior Software Engineer at Visit Health with 4+ years of experience designing a
  • Caching & Search: Redis, Elasticsearch
  
  • DevOps & Data: Apache Airflow, Jenkins, CI/CD pipelines
+ 
  • AI / LLM: Gemini, OpenAI, LangChain, MCP, Prompt Engineering
  
  • Authentication & Security: JWT, Google OAuth, SSO
